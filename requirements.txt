@@ -1,0 +1,38 @@
+# Core Python utilities
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.2
+
+# Deep Learning
+tensorflow==2.17.0
+keras==3.5.0
+
+# Jupyter & Notebooks
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+
+# API / Deployment
+fastapi==0.115.0
+uvicorn==0.30.6
+flask==3.0.3
+
+# Database / Data pipeline
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9   # PostgreSQL driver
+sqlite-utils==3.36
+
+# Utilities
+requests==2.32.3
+beautifulsoup4==4.12.3   # For web scraping
+
+# Optional (but handy for ML workflow)
+xgboost==2.1.1
+lightgbm==4.5.0
