@@ -102,8 +102,8 @@ jupyter notebook
 ## 📬 Contact
 
 * **Website:** [Manav Zadafiya](https://manavzadafiya.com)
-* **GitHub:** [Mz004](https://github.com/Mz004)
-* **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-linkedin)
+* **GitHub:** [Manav Zadafiya](https://github.com/Mz004)
+* **LinkedIn:** [Manav Zadafiya](https://linkedin.com/in/your-linkedin)
 * **Email:** [manavzadafiya@gmail.com](mailto:manavzadafiya@gmail.com)
 
 ---
