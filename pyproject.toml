@@ -1,0 +1,14 @@
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+lint.select = ["E","F","I","B","UP","SIM","PIE"]
+lint.ignore = ["E501"]  # black handles long lines
+format.preview = true
+
+[tool.isort]
+profile = "black"
+line_length = 100
